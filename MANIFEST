@@ -64,3 +64,4 @@ lib/ePortal/App/Organizer/Notepad.pm
 lib/ePortal/App/Organizer/Organizer.pm
 lib/ePortal/App/Organizer/ToDo.pm
 target
+META.yml                                 Module meta-data (added by MakeMaker)

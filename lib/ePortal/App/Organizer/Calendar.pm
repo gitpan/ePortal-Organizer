@@ -13,7 +13,7 @@
 
 package ePortal::App::Organizer::Calendar;
     use base qw/ePortal::ThePersistent::ParentACL/;
-    our $VERSION = '4.1';
+    our $VERSION = '4.2';
 
 	use ePortal::Global;
 	use ePortal::PopupEvent;
